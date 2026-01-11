@@ -1,7 +1,7 @@
 **Spam Message Classifier -**
 A Machine Learning–based spam classifier that detects whether a message is Spam or Not Spam. The model is deployed as an interactive Streamlit web app and hosted on Render.
 
-**Live Demo - App Link:** https://sms-email-spam-classifier-3-pzws.onrender.com/
+**Live Demo - App Link:** https://sms-email-spam-classifier-3-pzws.onrender.com
 
 **Project Overview -**
 This project uses Natural Language Processing (NLP) techniques and a supervised ML algorithm to classify text messages as spam or ham.
