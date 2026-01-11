@@ -28,9 +28,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-
-
-
 def transform_text(text):
   text = text.lower()
   text = nltk.word_tokenize(text)
@@ -77,7 +74,7 @@ if st.button("Predict"):
     
     if sms.strip() == "":
         st.warning("Please enter a message before clicking Predict.")
-
+    else:
         #1. preprocess
         transform_sms = transform_text(sms)
 
