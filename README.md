@@ -8,16 +8,18 @@ This project uses Natural Language Processing (NLP) techniques and a supervised 
 The trained model is integrated into a Streamlit application that allows users to test messages in real time.
 
 **Tech Stack -**
-Python
-Scikit-learn
-Pandas 
-NumPy
-NLTK
-Streamlit
-Render (Deployment)
+1. Python
+2. Scikit-learn
+3. Pandas 
+4. NumPy
+5. NLTK
+6. Streamlit
+7. Render (Deployment)
 
 **Machine Learning Approach -**
-Text preprocessing (lowercasing, tokenization, stopword removal, stemming)
-Feature extraction using TF-IDF Vectorizer
-Model training using Naive Bayes (MultinomialNB)
-Model serialization using pickle
+1. Data cleaning
+2. EDA
+3. Text preprocessing (lowercasing, tokenization, stopword removal, stemming)
+4. Feature extraction using TF-IDF Vectorizer
+5. Model training using Naive Bayes (MultinomialNB)
+6. Model serialization using pickle
