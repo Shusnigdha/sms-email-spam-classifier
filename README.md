@@ -16,7 +16,7 @@ The trained model is integrated into a Streamlit application that allows users t
 6. Streamlit
 7. Render (Deployment)
 
-**Machine Learning Approach -**
+**Project Workflow -**
 1. Data cleaning
 2. EDA
 3. Text preprocessing (lowercasing, tokenization, stopword removal, stemming)
